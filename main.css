@@ -1,0 +1,24 @@
+
+.parent {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 300px;
+    border: 1px solid black;
+    width: 350px;
+    font-family: 'Mukta', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+ 
+.email {
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+.first-name {
+    padding-bottom: 15px;
+}
+.last-name {
+    padding-bottom: 15px;
+}
+.submit {
+    width: 100%;
+}
